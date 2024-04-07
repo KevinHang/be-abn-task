@@ -1,6 +1,6 @@
 # Python Flask Backend
 
-I tried to follow best-practices regarding structuring the project. The endpoint implementations can be found in app/resources/tv_show_resources.py
+The endpoint implementations can be found in app/resources/tv_show_resources.py
 
 ## Requirements
 
